@@ -12,7 +12,7 @@
 ## Screen
 
 <p align="center">
-    <img alt="" title="" src="telas/calculadora.jpg">
+    <img alt="" title=""  height="250px" src="telas/calculadora.jpg">
 </p>
 
 <h4 align="center"> <em>&lt;/&gt;</em> by DeveloperMattos</h4>
